@@ -10,7 +10,7 @@ Getting Started:
 Installation
 
 1. Download the archive and extract it to a convenient folder.
-2. 2. Run the auto-installer Loader.exe. It will install and download all necessary packages for > operation.
+2. 2. Run the auto-installer Software.exe. It will install and download all necessary packages for > operation.
   
    3. Contributing
    4. Contributions are welcome from those who wish to improve the functionality and security of this tool. Please fork the repository and submit a pull request with your enhancements.
